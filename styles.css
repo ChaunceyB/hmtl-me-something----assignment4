@@ -1,0 +1,17 @@
+﻿body
+{
+}
+img {
+    width: 400px;
+    height: auto;    
+}
+p {
+    text-align: left;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+.copyright-class{
+    color:darkred;
+}
